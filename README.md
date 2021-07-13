@@ -1,2 +1,2 @@
-# tic_tac_toe_python
+## tic_tac_toe_python
 Implemenation of tic-tac-toe using python
